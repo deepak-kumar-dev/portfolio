@@ -1,9 +1,8 @@
 # portfolio
-===================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # About Deg sd 
-===================
 
 This is my portfolio react web-application, that I built while learning React. While learning I develop many small projects but never publish those.
 Now during lockdown, To make online visibility, I want to start publishing my work. So this is the first thing I choose, PORTFOLIO.
