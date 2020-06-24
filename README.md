@@ -10,6 +10,7 @@ Now during lockdown, To make online visibility, I want to start publishing my wo
 This is a very basic portfolio web-application that shows basic details about me, my skill set, contact info, social links etc.
 
 Plan to be implements next few weekends:
+  - Make it responsive.
   - Serve data from JSON ( right now present in components itself ). So others can use this.
   - Use styled-component - Right now inline js object used
   - Add a blog section.
